@@ -1,0 +1,11 @@
+{
+  "name": "teapot",
+  "version": "1.0.0",
+  "description": "test HTTP response 418",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rokr0k",
+  "license": "ISC"
+}
